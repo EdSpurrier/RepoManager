@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    "https://github.com/EdSpurrier/dev-tools.git",
+    "https://github.com/EdSpurrier/ElectroCore.git",
+    "https://github.com/EdSpurrier/Elysium.git",
+    "https://github.com/EdSpurrier/Asgard.git",
+    "https://github.com/EdSpurrier/Athena.git",
+    "https://github.com/EdSpurrier/Fusion.git"
+  ]
+}
